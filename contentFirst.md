@@ -1,2 +1,5 @@
-# From: http://everydaydesigner.net/design/change-your-focus-and-design-content-first
-## points:
+From: http://everydaydesigner.net/design/change-your-focus-and-design-content-first
+points:
+*
+*
+*
